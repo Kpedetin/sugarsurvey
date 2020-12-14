@@ -60,8 +60,6 @@ Temporary Items
 *.iml
 out
 gen
-pom.xml
-src/
 target/classes/application.properties
 target/classes/messages.properties
 target/classes/messages_fr.properties
